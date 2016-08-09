@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "./built/local/app.js",
+        "sourceMap": true
+    },
+    "files": [
+        "main-ctrl.ts",
+        "main.ts"
+    ]
+}
